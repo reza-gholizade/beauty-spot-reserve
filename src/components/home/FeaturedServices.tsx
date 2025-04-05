@@ -1,5 +1,5 @@
 
-import { useRef } from "react";
+import React, { useRef } from "react";
 import { services } from "@/data/mock";
 import { Card, CardContent, CardFooter } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
